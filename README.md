@@ -5,3 +5,4 @@
 <h2>Tecnologias ultilizadas</h2>
 <p>-HTML</p>
 <p>-CSS</p>
+<img src=https://raw.githubusercontent.com/gustavoaduatti29/CSS-We-Care/446799d9ef214b9e9a43c1640ec1043c0a0be6c8/img/CssWeCare.png>
